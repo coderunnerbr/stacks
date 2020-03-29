@@ -16,5 +16,5 @@ Exemplo:
  Cada um dos elementos da pilha é chamad de "Nó", e esses nós possuem um valor e uma referência
  para o próximo nó (ponteiro).
  
- Essa implementação é fruto de umas das minhas video-aulas que podem ser acessadas no seguinte canal:
- https://www.youtube.com/channel/UCZRcjUZ3vfVWnwiIghEwq6A/
+ Essa implementação é fruto de umas das minhas video-aulas, essa vídeo aula pode ser acessada pelo link: 
+https://www.youtube.com/watch?v=SHFW2-r7pA8
