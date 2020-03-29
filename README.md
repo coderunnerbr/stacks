@@ -1,4 +1,4 @@
-# stacks
+# Stacks | Pilhas
 Aqui temos a implementação de uma pilha, do zero, utilizando ponteiros. 
 Nessa implementação, utilizo a ideia de de Lista encadeada funcionando como Pilha.
 Exemplo:
